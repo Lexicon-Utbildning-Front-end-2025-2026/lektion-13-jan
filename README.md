@@ -27,7 +27,7 @@ Efter denna dag ska du:
   * Denna övning kommer (EVENTUELLT!) att pågå under veckans eftermiddagar.
 
 ## 🖥️ Slides
-* * Namn-på-länk->länk-dit
+* * [Typescript - funktioner](https://docs.google.com/presentation/d/1t0q8kVg3yWF4HMaql09jZQdKeraYVL8kv-WQlg9tQ3M/edit?slide=id.p#slide=id.p)
 
 
 ### Dagens Lektions Inspelningar:
