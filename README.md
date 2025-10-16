@@ -1,8 +1,8 @@
-# 📅 SCHEMA Måndag 5 januari
+# 📅 SCHEMA Tisdag 13 januari
 
 Övergripande schema över dagen
 
-##### TypeScript – Intro Översikt TS vs JS, felsökning i DevTools, initiera projekt med npm & tsc, första enkla exempel.
+##### TypeScript – Funktioner - named, arrow, parametrar, inbyggda, ex. Math.random, Array.isArray..
 
 ## 🎯 Mål för dagen
 
